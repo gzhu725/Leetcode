@@ -35,9 +35,9 @@ class Solution {
     return new int[]{-1,-1};
   }
 
-  public static void main(String[] args)
-  {
-    Solution s = new Solution();
-    s.bestTwoSum(new int[]{2,7,11,19}, 9);
-  }
+  // public static void main(String[] args)
+  // {
+  //   Solution s = new Solution();
+  //   s.bestTwoSum(new int[]{2,7,11,19}, 9);
+  // }
 }

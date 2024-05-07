@@ -22,6 +22,6 @@ class Solution(object):
 
 
 
-p = Solution()
-print(p.bestTwoSum([2,7,11,15], 9)) #sample input case 1, you can also use brute force function for same answer
-print(p.bestTwoSum([3,2,4], 6)) #sample input case 2
+# p = Solution()
+# print(p.bestTwoSum([2,7,11,15], 9)) #sample input case 1, you can also use brute force function for same answer
+# print(p.bestTwoSum([3,2,4], 6)) #sample input case 2
